@@ -11,6 +11,7 @@
 
 TinyI2CMaster::TinyI2CMaster() 
 {
+  this->I2Ccount = 0;
 }
 
 // Minimal Tiny I2C Routines **********************************************
